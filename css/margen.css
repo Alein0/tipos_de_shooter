@@ -1,4 +1,6 @@
-h1, h2, h3, p{
+.margen{
     margin-left: 400px;
     margin-right: 400px;
+    background-color: #1c003b;
+    padding: 20px;
 }
