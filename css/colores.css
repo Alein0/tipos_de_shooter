@@ -1,8 +1,7 @@
-body{
-    background-image: url("control.jpg");
-    background-size:contain; 
-}
 p{
     color: #E5E5E5;
     font-size: large;
+}
+.tituloindex{
+    color: #ffa500;
 }
