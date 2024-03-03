@@ -4,6 +4,7 @@ p{
 }
 .tituloindex{
     color: #ffa500;
+    text-align: center;
 }
 .titulopagina3,.titulopagina2{
     color: #dfd000;
@@ -22,4 +23,27 @@ p{
 }
 .sub4Pag3,.sub4Pag2,.sub5Pag2{
     color: #ffffff;
+}
+.introindex{
+    background-color: #775B2B;
+    color: #E5E5E5;
+    text-align: center;
+}
+.subindex{
+    color: #bf7c00;
+}
+.titulofps{
+    color: #63f714;
+    text-align: center;
+}
+.subtitulofps{
+    color: #63f714;
+}
+.explifps{
+    background-color:#4f8432;
+    color: white; 
+    text-align: center;
+}
+.sub3fps{
+   color: #43c100;
 }

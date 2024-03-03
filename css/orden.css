@@ -1,7 +1,12 @@
-
+*{
+    font-family:cursive, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .centrarvideo{
     text-align: center;
 }
 .centrarimagen{
     text-align: center;
+}
+.derechavideo{
+    float: right;
 }
