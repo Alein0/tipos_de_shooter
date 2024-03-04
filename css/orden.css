@@ -10,3 +10,32 @@
 .derechavideo{
     float: right;
 }
+.izquierdaimg{
+    float: left;
+}
+.botones{
+    position:fixed;
+    bottom: 30%;
+    right: 0%;
+    text-align: center;
+}
+.boton{
+    display: inline-block;
+    margin: 4px 0% 4px 66%;
+    padding: 6px 4px;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
+.textboton-a{
+    vertical-align:-10px;
+}
+.textboton-b{
+    vertical-align:-6px;
+}
+.textboton-c{
+    vertical-align:-11px;
+}
+.textboton-d{
+    vertical-align:-11px;
+}
