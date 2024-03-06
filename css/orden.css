@@ -14,15 +14,13 @@
     float: left;
 }
 .botones{
-    position:fixed;
-    bottom: 30%;
-    right: 0%;
+    display: flex;
     text-align: center;
+    justify-content: space-evenly;
 }
 .boton{
-    display: inline-block;
-    margin: 4px 0% 4px 66%;
-    padding: 6px 4px;
+    margin: 0px 1%;
+    padding: 1px 10px;
     text-decoration: none;
     border-radius: 10px;
 
@@ -38,4 +36,8 @@
 }
 .textboton-d{
     vertical-align:-11px;
+}
+.botonfondo{
+    background-color: #0e001f;
+    padding: 12px;
 }
