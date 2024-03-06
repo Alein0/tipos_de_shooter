@@ -27,7 +27,6 @@ p{
 .introindex{
     background-color: #775B2B;
     color: #E5E5E5;
-    text-align: center;
 }
 .subindex{
     color: #bf7c00;
@@ -47,11 +46,20 @@ p{
 .sub3fps{
    color: #43c100;
 }
+.botonfondo{
+    background-color: #1f016a;
+    padding: 12px;
+} 
 .colorboton-a{
-    background-color: #5e2696;
+    background-color: #413d8b;
     color: #ffa500;
 }
 .colorboton-b{
-    background-color: #5e2696;
+    background-color: #413d8b;
     color: #58d8da;
 }   
+.titulonoticia{
+    text-align: center;
+    font-size:x-large;
+    color: #e4b108;
+}

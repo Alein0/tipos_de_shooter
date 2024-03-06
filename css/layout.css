@@ -1,0 +1,30 @@
+header{
+    padding: 2px;
+    background-color: #2d0060;
+    font-size:25px;
+}
+nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+section{
+    text-align: center;
+}
+article{
+    background-color: #30015c;
+    padding: 30px;
+}
+aside{
+    position: fixed;
+    width: 280px;
+    background-color: #5a0078;
+    padding: 10px;
+    margin-left: 2%;
+    bottom: 44%;
+    border-radius: 10px;
+}
+footer{
+    background-color: #400154;
+    padding: 50px;
+}
