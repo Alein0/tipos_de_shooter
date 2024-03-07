@@ -27,4 +27,22 @@ aside{
 footer{
     background-color: #400154;
     padding: 50px;
+
+}
+
+.copy{
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: #12c1c7;
+}
+
+form{
+    text-align: center;
+    color: white;
+    
+
 }
